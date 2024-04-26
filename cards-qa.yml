@@ -1,0 +1,17 @@
+#spring:
+#  config:
+#    activate:
+#    on-profile: "qa"
+
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to EazyBank cards related QA APIs "
+  contactDetails:
+    name: "Steve Smith - QA Lead"
+    email: "smita@eazybank.com"
+  onCallSupport:
+    - (666) 198-723
+    - (666) 741-982
+
